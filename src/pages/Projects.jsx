@@ -4,9 +4,9 @@ const projects = [
 	{
 		id: 1,
 		title: 'my-portfolio',
-		deployedLink: 'https://fgomesokoye.netlify.app/',
+		deployedLink: 'https://fgomeso.netlify.app/',
 		repoLink: 'https://github.com/francis-gomes-esq/my-portfolio',
-		image: '',
+		image: './deployed-application.gif',
 	},
 	{
 		id: 2,

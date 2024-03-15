@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
 	return (
-		<div className='flex flex-col mt-4 transition-all duration-300 ease-in-out hover:-translate-x-2 hover:underline'>
+		<div className='flex flex-col mt-4 '>
 			<h1 className='text-3xl font-bold mb-4'>About Me</h1>
 			<div className='rounded-lg shadow-md p-6'>
 				<p className='text-lg mb-4'>
@@ -26,7 +26,7 @@ const About = () => {
 				</p>
 			</div>
 		</div>
-	);
+	)
 }
 
-export default About;
+export default About
