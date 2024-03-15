@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.contact-list {
+	list-style: none;
+}
+
+.txt {
+	color: white;
+}
+/*transform rotate-90 text-xstext-slate-500 opacity-80 h-0 mt-14 left-20 absolute*/
