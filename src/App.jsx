@@ -20,7 +20,7 @@ function App() {
 				<div className='sm:ml-6 relative'>
 					<img
 						className='w-35 h-40 border-2'
-						src='T066T1QMN84-U0671LCJW3E-9e8bb807dc33-512.jpeg'
+						src='Francis.jpeg'
 					></img>
 					<p className='txt'>Front End Developer</p>
 				</div>
