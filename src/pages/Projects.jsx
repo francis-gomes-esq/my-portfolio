@@ -49,9 +49,10 @@ const projects = [
 	},
 	{
 		id: 7,
-		title: 'hazalsigic/project-1',
-		deployedLink: 'https://hazalsigic.github.io/project-1/',
-		repoLink: 'https://github.com/hazalsigic/project-1',
+		title: 'city-explorer-project',
+		deployedLink:
+			'https://francis-gomes-esq.github.io/city-explorer-project/',
+		repoLink: 'https://github.com/francis-gomes-esq/city-explorer-project',
 		image: '',
 	},
 	{
